@@ -9,7 +9,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     background-color: #609965;
-    color: #333;
+    color: #1d1c1c;
     padding: 20px;
 }
 
@@ -17,14 +17,14 @@ body {
 header {
     text-align: center;
     padding: 30px 0;
-    background-color: #07b316;
+    background-color: #68cf6d;
     margin-bottom: 40px;
     border-radius: 8px;
 }
 
 header h1 {
     font-size: 32px;
-    color: #00796b;
+    color: #0a0e0d;
 }
 
 .subtitulo {
@@ -36,6 +36,7 @@ header h1 {
 .introducao {
     text-align: center;
     margin-bottom: 50px;
+    font-size: 20px;
 }
 
 .introducao img {
@@ -54,7 +55,7 @@ header h1 {
 }
 
 .setor {
-    background-color: #16af1d;
+    background-color: #84da88;
     padding: 20px;
     border-radius: 10px;
     width: 300px;
@@ -69,7 +70,7 @@ header h1 {
 }
 
 .setor h2 {
-    color: #00796b;
+    color: #36332f;
     margin-bottom: 10px;
 }
 
@@ -77,10 +78,11 @@ header h1 {
 .tecnologia {
     text-align: center;
     margin-bottom: 50px;
+    font-size: 20px;
 }
 
 .tecnologia h2 {
-    color: #00695c;
+    color: #36332f;
     margin-bottom: 20px;
 }
 
